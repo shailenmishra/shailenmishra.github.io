@@ -173,7 +173,7 @@ font:
   global: 
     # external: true will load this font family from host.
     external: true
-    family: Nunito
+    family: Raleway
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -185,7 +185,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Open Sans
 
   # Font settings for Logo
   # Fallback to `global` font settings.
