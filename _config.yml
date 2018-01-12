@@ -167,17 +167,17 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: 
 
   # Global font settings used on <body> element.
-  global: https://fonts.googleapis.com/css?family=Nunito
+  global: 
     # external: true will load this font family from host.
     external: true
     family: Nunito
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
-  headings: https://fonts.googleapis.com/css?family=Raleway
+  headings: 
     external: true
     family: Raleway
 
