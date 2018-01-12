@@ -1,5 +1,5 @@
 ---
-title: teaching experience
+title: teaching
 layout: page
 ---
 
