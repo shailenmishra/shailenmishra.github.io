@@ -170,16 +170,16 @@ font:
   host:
 
   # Global font settings used on <body> element.
-  global:
+  global: https://fonts.googleapis.com/css?family=Nunito
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Nunito
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
-  headings:
+  headings: https://fonts.googleapis.com/css?family=Raleway
     external: true
-    family:
+    family: Raleway
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -226,8 +226,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  Facebook: facebook
 
 
 # Sidebar Avatar
