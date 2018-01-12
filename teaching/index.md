@@ -1,6 +1,7 @@
 ---
 title: teaching
 layout: page
+menuteaching: teaching
 ---
 
 Here is a summary of the courses that I have taught so far, or, in other words, my writing and literature teaching experience in detail.
