@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  teaching: /teaching.md
+  teaching: /teaching/
   cv: /cv/
   archives: /archives/
   about: /about/
@@ -136,18 +136,16 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  about: user
   categories: th
-  schedule: calendar
-  tags: tags
-  archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
   teaching: university
   cv: file-text
-
-
-
+  archives: archive
+  about: user
+  tags: tags
+  sitemap: sitemap
+  commonweal: heartbeat
+  schedule: calendar
+  
 
 # ---------------------------------------------------------------
 # Scheme Settings
