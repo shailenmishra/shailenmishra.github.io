@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  teaching: /teaching/
+  teaching: /teaching.md
   cv: /cv/
   archives: /archives/
   about: /about/
