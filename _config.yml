@@ -122,9 +122,9 @@ menu:
   cv: /cv/
   archives: /archives/
   about: /about/
-  tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+  #tags: /tags/
+  #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -187,7 +187,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: Open Sans
+    family: Quattrocento
 
   # Font settings for Logo
   # Fallback to `global` font settings.
