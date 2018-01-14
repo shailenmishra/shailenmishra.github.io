@@ -175,7 +175,7 @@ font:
   global: 
     # external: true will load this font family from host.
     external: true
-    family: Raleway
+    family: Rubik
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
@@ -187,7 +187,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: Raleway
+    family: Rubik
 
   # Font settings for Logo
   # Fallback to `global` font settings.
@@ -299,7 +299,7 @@ scroll_to_more: true
 save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
-excerpt_description: true
+excerpt_description: false
 
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
@@ -453,11 +453,11 @@ duoshuo_info:
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
-  enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
+  enable: true
+  app_id:       <260484357817718>
+  fb_admin:     <shailen.mishra>
+  like_button:  true
+  webmaster:    true
 
 # Facebook comments plugin
 # This plugin depends on Facebook SDK.
@@ -551,12 +551,12 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
-  trigger: auto
+  trigger: manunal
   # show top n results per article, show all results by setting to -1
-  top_n_per_article: 1
+  top_n_per_article: 5
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
