@@ -6,11 +6,19 @@
 }
 
 .post-body .fancybox img {
-  display: block !important;
-  margin: 0 auto;
+  //display: block !important;
+  float: left;
+  margin: 0 20px 20px 0;
   cursor: pointer;
   cursor: zoom-in;
   cursor: -webkit-zoom-in;
+}
+
+.post-body .fancybox img + em {
+  float: left;
+  margin: 5px 5px 10px 0;
+  color: $grey;
+  
 }
 
 .post-body img.emoji {
