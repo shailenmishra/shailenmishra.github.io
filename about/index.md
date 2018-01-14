@@ -3,7 +3,9 @@ title: about
 layout: page
 ---
 
-![](/assets/images/shailenmishra.jpg "Shailen Mishra")
+![](/assets/images/shailenmishra.jpg)
+*Photo by Sarah Ashley Peters*
+
 I am a novelist and short story writer. I have a Ph.D in English Studies (with emphasis in Creative Writing) from Illinois State University. My dissertation was an amalgamation of three strands of research: a novel (a work still in progress) based on [1999 “supercyclone” that hit Orissa](http://news.bbc.co.uk/onthisday/hi/dates/stories/october/29/newsid_3691000/3691573.stm), the aesthetic potential of suspense, and the usefulness of constraint-based writing methods in creative writing classrooms. I also hold an MFA in Creative Writing from North Carolina State University (USA), where I worked with eminent authors Wilton Barnhardt, John Kessel, and Jill McCorkle. In 2012, I received the Tom Kuster Creative Writing Award at Illinois State University. I am also the Sr. Editorial Assistant, Blog Editor, and Website Manager for *[Spoon River Poetry Review](http://www.srpr.org/)*, an acclaimed poetry journal since 1976. My research interests include craft of fiction writing, creative writing pedagogy, writing process, narrative theory, and postcolonial theory.
 
 My teaching experience includes creative writing (Intermediate and Introductory), freshman composition, academic writing, and introduction to literature.
