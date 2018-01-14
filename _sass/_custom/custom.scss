@@ -1,1 +1,10 @@
 // Custom styles.
+
+.alt-image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey;
+        margin-top: $spacing-unit / 3;
+    }
+}
