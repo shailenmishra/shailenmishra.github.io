@@ -1,0 +1,7 @@
+---
+title: Reflecting upon our individual learning process
+date: 2015-08-25 
+categories:
+  - teaching
+---
+“What sort of learner are you?” To start the semester with our students with this question is a useful exercise. It’s not surprising that many of us are not aware of our learning methods/strengths/styles. We think we know. Or we don’t think we need to know because it all seems so natural or reflexive. But such lack of meta-thinking won’t bail us out in case of unfamiliar learning circumstances. As Maryellen Weimer points out in [the article](http://www.facultyfocus.com/articles/teaching-professor-blog/how-do-you-learn/), “In a workshop on using reflection to promote professional growth, I asked participants to spend some time thinking and writing about what they knew about themselves as learners. When we moved to a whole-group discussion, people talked about learning in general, not about themselves as learners. I didn’t have much luck getting the group to make it personal.” Though such an exercise on self-reflection in one’e learning style will be useful for any learner at any stage, I am particularly thinking of developmental writing or genre-based writing classes where students encounter a wholly new and complex writing challenge, and have to figure out the list of learning requirements that they may not essentially possess or be proficient in. Being aware of the required learning curve can build patience and help students with transfer of skills whenever applicable.
