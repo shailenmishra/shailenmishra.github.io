@@ -1,9 +1,9 @@
 ---
-title: Speaking of dialogue: a specimen from Ann Patchett’s Commonwealth
+title: Speaking of dialogue - a specimen from Ann Patchett’s *Commonwealth*
 date: 2017-08-10 
 categories:
   - books
-tags: Ann Patchett, dialogue writing
+tags: Ann Patchett, Dialogue Writing
 ---
 
 <img style="float: left; margin: 5px 20px 10px 0px;" src="/assets/images/commonwealth_cover.jpg" />Ann Patchett’s *Commonwealth* has this scene at the start of the Chapter 4 that develops primarily through dialogue. In fact, bulk of that chapter is dialogue. The dialogue is between two characters: Franny, a cocktail waitress, and Leon Posen, a customer at the bar and occupationally a writer. The setting is Chicago’s iconic Palmer House Hotel. It’s near closing time for the bar so it’s almost empty. Franny is a huge fan of Leon Posen and she has read all his works quite faithfully. So when she finds out that Leon Posen is at the bar, Franny takes the opportunity to be his bartender to impress her idol. Leon, for his part, has had a few drinks already and he’s smitten by Franny’s beauty. He relishes at the idea of being served by Franny so that she could linger around him.
