@@ -2,7 +2,7 @@
 title: Faculty Focus’ Top Fifteen Articles of 2015
 date: 2015-12-21 
 categories:
-  - writing
+  - teaching
 ---
 
 This year’s top articles from Faculty Focus is here.
