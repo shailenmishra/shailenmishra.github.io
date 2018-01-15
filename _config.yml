@@ -626,8 +626,8 @@ vendors:
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
-  fancybox:
-  fancybox_css:
+  fancybox: //shailenmishra.github.io/assets/lib/fancybox/source/jquery.fancybox.js
+  fancybox_css: //shailenmishra.github.io/assets/lib/fancybox/source/jquery.fancybox.css
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
