@@ -3,7 +3,10 @@ title: about
 layout: page
 ---
 
-![](/assets/images/shailenmishra.jpg "Photo by Sarah Peters")
+
+<a href="/assets/images/shailenmishra.jpg" data-fancybox data-caption="Photo by Sarah">
+	<img src="/assets/images/shailenmishra.jpg" alt="Shailen Mishra" />
+</a>
 
 ![](http://www.allpetbirds.com/wp-content/uploads/types_canary.jpg)
 ![](http://bird.cauta.us/trending-images/different+kinds+of+birds+in+the+world.jpg)
