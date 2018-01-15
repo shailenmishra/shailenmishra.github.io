@@ -4,7 +4,7 @@ date: 2015-07-23
 categories:
   - books
 ---
-*Granta*'s issue 130, released in Winter 2015, is the second issue to have been exclusively dedicated to Indian writing in the journal’s history. In the year 1997, Granta experimented with first such issue. It was quite a hit, featuring writings by Anita Desai, R. K. Narayan, V. S. Naipaul, etc. This was the issue in which an excerpt from Arundhati Roy’s *The God of Small Things* made its first public appearance. The issue 130 similarly features many known-names of the Indian literary scene.
+<img style="float: left; margin: 5px 20px 10px 0px;" src="/assets/images/granta-issue-130-cover.jpg" />*Granta*'s issue 130, released in Winter 2015, is the second issue to have been exclusively dedicated to Indian writing in the journal’s history. In the year 1997, Granta experimented with first such issue. It was quite a hit, featuring writings by Anita Desai, R. K. Narayan, V. S. Naipaul, etc. This was the issue in which an excerpt from Arundhati Roy’s *The God of Small Things* made its first public appearance. The issue 130 similarly features many known-names of the Indian literary scene.
 
 Most of the fictional pieces are glaringly open-ended. That could be because these works are excerpts from larger works, and perhaps a reason why they suffer from lack of compactness and impetus. On the other hand, the non-fictional essays, which clearly excites the editor Ian Jack as the promising new phase of the Indian literature, are meticulously researched, poignant, and evocative. My personal favorite is Samanth Subramanian’s “Breach Candy” for its incisive prying open of a discriminatory issue and punchy prose.
 
