@@ -1,9 +1,9 @@
 ---
 title: teaching
 layout: page
-menu: teaching
 ---
 
+<br>
 Here is a summary of the courses that I have taught so far, or, in other words, my writing and literature teaching experience in detail.
 
 ***Graduate Assistant***, Illinois State University, 2010-Present
