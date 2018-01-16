@@ -3,9 +3,10 @@ title: The Notion of Deliverance in Colson Whitehead’s The Underground Railroa
 date: 2017-05-01 
 categories:
   - books
-tags: ColsonWhitehead, NovelWriting, NarrativeStructure, Theme
+tags: ColsonWhitehead NovelWriting NarrativeStructure Theme
 ---
 <img style="float: left; margin: 5px 20px 10px 0px;" src="/assets/images/underground_railroad_cover.jpg" />There’s this line toward the very end of Colson Whitehead’s book, *The Underground Railroad*: “She trusted the slave’s choice to guide her—anywhere, anywhere but where you are escaping from.” This is a realization that comes to Cora, the protagonist and a runaway slave who is seeking lasting deliverance. Cora’s realization is a reminder to the self, a lesson in survival. She’s been on the run from Georgia to South Carolina, then to North Carolina, Tennessee, and Indiana. Yet, she’s still fleeing: to go anywhere, any other place that’s an escape from the present condition. But that “anywhere” is only a transient state before it reminds a runaway slave that he/she is on the hunt again. And he/she has to seek a new refuge, a new “anywhere.” The unifying thought that holds together Whitehead’s novel is this question: where does, if at all, that “anywhere” exist for an enslaved person?
+<!-- more -->
 
 Cora’s survival is dependent on finding an answer to this question. Her search leads her to different states: from Southern to Midwest. In each state, she unearths an endemic (insidious or openly savage) system of subjugating the black body. When the horror of one state’s brutality toward black people is revealed to her, Cora assumes her “slave’s choice,” which is no choice at all. She escapes thinking may be her next destination will free her from her bondage.
 
