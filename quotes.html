@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Quotes</title>
+		<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <style type="text/css">
+		
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        height: 100%;
+        max-height: 100%;
+        font-family: san-serif;
+        line-height: 1.5em;
+      }
+		
+      #header {
+        position: absolute;
+        display: block;
+        top: 0;
+        left: 0;
+        height: 50px;
+        overflow: hidden; /* Disables scrollbars on the header frame. To enable scrollbars, change "hidden" to "scroll" */
+
+      }
+		
+      #logo {
+        padding:10px;
+      }
+		
+      main {
+        position: fixed;
+        margin-top: 30px;
+        padding-right: 50px;
+        padding-left: 50 px;
+        overflow: auto;
+      }
+		
+      .innertube {
+        margin: 15px; /* Provides padding for the content */
+      }
+
+      .container {
+
+        /* Provides padding for the content */
+        clear: right;
+      }
+          
+      .meta em {
+        font-family: "Arial", Times, serif;
+        font-size: 12px;
+        color: #444400;
+            
+      }
+        
+      .meta {
+         margin-bottom: 25px;       
+      }
+            
+       p {
+			   font-family: 'Rubik', sans-serif;
+         font-size: 15px;
+         color: #222;
+         -webkit-margin-before: 0.2em;
+ 		   	 -webkit-margin-after: 0.2em;
+    		 -webkit-margin-start: 0px;
+    		 -webkit-margin-end: 0px;
+      }
+
+		   a {
+			   color: #444400;   
+		}
+          
+       h1 {
+ 		   	display: block;
+    		font-size: 1.6em;
+    		-webkit-margin-before: 0.67em;
+        -webkit-margin-after: 0.67em;
+    		-webkit-margin-start: 0px;
+    		-webkit-margin-end: 0px;
+    		font-weight: bold;
+		}
+        
+        h2 {
+          font-family: "Arial", Times, serif;
+          font-size: 16px;
+          -webkit-margin-before: 0.33em;
+    		  -webkit-margin-after: 0.33em;
+    		  -webkit-margin-start: 0px;
+    		  -webkit-margin-end: 0px;
+    		  font-weight: bold;
+          color: #D050D0;
+        }
+        
+        h4 {
+         	  font-family: "Arial", Times, serif;
+            font-size: 12px;
+            font-weight: normal;
+            color: #444400;
+            -webkit-margin-before: 0em;
+    		    -webkit-margin-after: 0em;
+        }
+        
+    nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav ul a {
+			color: darkgreen;
+			text-decoration: none;
+		}
+			
+		* html main{
+			height: 100%;
+			width: 100%;
+		}
+		
+		</style>
+		
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script>
+ // ID of the Google Spreadsheet
+ var spreadsheetID = "1lvv3ziKNC6aM_BTIJWVhuyJaVH3zRogNBJYJmD8JWrA";
+ 
+ // Make sure it is public or set to Anyone with link can view
+ var url = "http://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/1/public/values?alt=json";
+ 
+ $.getJSON(url, function(data) {
+ 
+  var entry = data.feed.entry;
+ 
+  $(entry).each(function(){
+    // Column names are name, age, etc.
+    $('.results').prepend('<div class="container"><h2>' +this.gsx$title.$t+ '</h2><p>' +this.gsx$summary.$t+ '</p></div><div class="meta"><h4>Author: ' +this.gsx$author.$t+ '</br>Comment: ' +this.gsx$comment.$t+ '</br>Tags: ' +this.gsx$tags.$t+ '</h4><a href="' +this.gsx$url.$t+ '">Source</a><em> :: ' +this.gsx$date.$t+ '</em></div>');
+  });
+ 
+ });
+ 
+</script>
+	
+	</head>
+	
+	<body>
+
+		<header id="header">
+			<div id="logo">
+				<h1>Quotes</h1>
+			</div>
+		</header>
+				
+		<main>
+			<div class="innertube">
+				
+				<div class="results"></div>
+				
+			</div>
+		</main>
+
+    	
+	</body>
+</html>
