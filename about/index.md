@@ -11,4 +11,13 @@ My aesthetic is shaped by writers like Franz Kafka, Gabriel García Márquez, Wi
 
 A sample of my writing can be read [here](http://www.theshinejournal.com/mishrashailen.htm), a flash fiction published by *The Shine Journal* in 2010. Also [here](http://www.srpr.org/blog/higher-than-four-walls/), a blog post for *Spoon River Poetry Review*.
 
-\*Photo by: [Sarah Ashley Peters](http://www.sarahashleypeters.com/)
+You can write to me using the form below:
+
+<form method="POST" action="https://formspree.io/shailenmishra80@gmail.com">
+  <input type="email" name="email" placeholder="Your email">
+  <input type="hidden" name="_subject" value="Thanks for writing to me" />
+  <textarea name="message" placeholder="Your message"></textarea>
+  <input type="hidden" name="_next" value="//thanks.md" />
+  <input type="hidden" name="_format" value="plain" />
+  <button type="submit">Send</button>
+</form>
