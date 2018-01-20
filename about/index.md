@@ -17,7 +17,7 @@ You can write to me using the form below:
   <input type="email" name="email" placeholder="Your email">
   <input type="hidden" name="_subject" value="Thanks for writing to me" />
   <textarea name="message" placeholder="Your message"></textarea>
-  <input type="hidden" name="_next" value="//thanks/" />
+  <input type="hidden" name="_next" value="https://shailenmishra.com/thanks/" />
   <input type="hidden" name="_format" value="plain" />
   <button type="submit">Send</button>
 </form>
