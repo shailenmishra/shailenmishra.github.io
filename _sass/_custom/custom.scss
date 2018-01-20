@@ -26,3 +26,44 @@ blockquote {
     padding: 10px;
     display: none;
 }
+
+// CSS for contact form
+
+form input, form textarea {
+    margin-bottom: 1em;
+}
+
+input, textarea {
+    font-size: 0.8em;
+    font-family: 'proxima-nova-soft', sans-serif;
+    border: 1px solid #ddd;
+    background: #fff;
+    padding: 0.9em;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}
+
+button, input {
+    line-height: normal;
+}
+
+#formview textarea {
+    height: 10.3em;
+}
+
+textarea {
+    overflow: auto;
+    vertical-align: top;
+}
+
+button, a.button {
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 2px solid #359173;
+    color: #359173;
+    background: transparent;
+    line-height: 1em;
+    padding: 0.6em 0.9em;
+    transition: all 0.3s ease-in-out;
+}
