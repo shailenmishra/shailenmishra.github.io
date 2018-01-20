@@ -5,6 +5,9 @@ categories:
   - everything-else
 ---
 
+<a class="embedly-card" data-card-controls="0" href="https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-books-mean-to-him.html?ref=oembed">Transcript: President Obama on What Books Mean to Him</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 I was reading Barack Obama’s [interview](https://www.nytimes.com/2017/01/16/books/transcript-president-obama-on-what-books-mean-to-him.html?ref=oembed) with Michiko Kakutani on NY Times today. Obama speaks of his love for books, especially novels. His opinion on literature is as astute as a literary critic’s. He thinks that literature is necessary for everyone to read and even more so for a president. According to him, literature teaches you empathy and the ability to quiet your brain to think. The fact that a lawyer/politician/powerful leader chooses literature as a means to build these two qualities is the important point here.
 
 Before I entered into the discipline of writing and literature, I was trained as an engineer. I know that I learned what empathy is and how to row past my own prejudices through novels. I feel like literature is for everyone. It’s an essential survival means for all of us. Secondly, Obama’s point on focus makes an even stronger case about why the books are the remedy to our ADHD minds. I worry about myself, my generation, and the generation after us about the influence of technology on human minds, on our ability to quiet our brains, to embrace boredom, and to not split into atoms of zillion distraction before finishing a book.
