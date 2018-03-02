@@ -5,7 +5,15 @@ layout: page
 <br>
 Here is a summary of the courses that I have taught so far, or, in other words, my writing and literature teaching experience in detail.
 
-***Graduate Assistant***, Illinois State University, 2010-Present
+***Instructional Assistant Professor***, Illinois State University, August 2015 – May 2016
+
+English 101: Composition as Critical Inquiry (6 sections)  
+This writing-intensive course combined writing process theory and genre studies approach. The combined approach intended to help students become holistic writers by reflecting on their writing process and by carrying out genre analysis. Students completed four writing projects in this course. First two projects (a personal narrative and a hybrid of research/informative essay) followed the traditional mode of written text. In the last two projects (a photo essay and a local history writing project), students took a multimodal approach to producing text.  
+
+English 229: Introduction to Literary Genre (1 section)  
+This Gen-Ed literature course introduced students to the history and characteristics of various literary genres such as novel, play, memoir, short stories, poetry, and graphic novel. By studying closely the aspects of each genre and comparing genres, students developed a broader understanding of how each genre produces different rhetorical results and narrative effects. Secondly, the thematic focus of this course was women’s rights and gender disparity. By studying texts about women’s experiences in different cultures and parts of the world, students were sensitized to women’s struggle and the socio-historic context of their marginalization. Major assignments of the course were a short expository paper and a long critical analysis paper.
+
+***Graduate Teaching Assistant***, Illinois State University, August 2010 - May 2015
 
 English 101:  Composition as Critical Inquiry (9 sections)
 A writing-intensive course for the freshmen with emphasis on genre-centric writing approach. Usually students tackled four to five writing genres as diverse as personal essay, opinion essay, short story, research article (modeled after How Stuff Works), humor essay, travel writing, etc. The students developed skills like analyzing a writing genre, identifying its conventions, challenges and rhetorical purpose, conducting research, and write/revise drafts in that genre.
