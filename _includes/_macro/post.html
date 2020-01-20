@@ -347,8 +347,10 @@
         </div>
       {% endif %}
 
+      <div class="share-buttons-block">
       {% include share-buttons.html %}
-      
+      </div>
+        
       {% unless is_index %}
       {% if site.vkontakte_api.enable and site.vkontakte_api.like %}
         {% assign vkontakte_api = true %}
