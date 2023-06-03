@@ -9,10 +9,11 @@ My teaching experience includes creative writing (Intermediate and Introductory)
 
 My aesthetic is shaped by writers like Franz Kafka, Gabriel García Márquez, William Faulkner, and R. K. Narayan. Not a wholehearted subscriber to any single -isms (Realism, Surrealism, Modernism, Postmodernism, Post-postmodernism…), I pledge my allegiance to hybridity, transcendence, and borderline aesthetics.
 
-Currently, I am a Visiting Assistant Professor of English at Swarthmore College.
+Currently, I am a Visiting Assistant Professor of English at Swarthmore College. Previously, I have taught at University of Delaware, Illinois State University, and North Carolina State University.
 
-A few samples of my published fiction: 
+Samples of my published fiction: 
 
+- [Measure of an Escape](https://thediagram.com/23_1/mishra.html), *DIAGRAM*  
 - [Between Bears and Bees](https://baltimorereview.org/index.php/winter_2021/contributor/shailen-mishra), *The Baltimore Review*
 - [Fait Accompli](https://thebookendsreview.com/2020/03/06/fait-accompli/), *The Bookends Review*
 - [Siren](https://www.theshinejournal.net/mishrashailen.htm), *The Shine Journal*
