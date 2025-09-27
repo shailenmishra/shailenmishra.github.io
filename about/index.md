@@ -11,14 +11,19 @@ My aesthetic is shaped by writers like Franz Kafka, Gabriel García Márquez, Wi
 
 Currently, I am a Visiting Assistant Professor of English at Swarthmore College. Previously, I have taught at University of Delaware, Illinois State University, and North Carolina State University.
 
-Samples of my published fiction: 
+Links to my scholarly work:
+
+- [Constructing the Other: Narrative Empathy and the Ethics of Border-Crossing in World Literature](https://brill.com/view/journals/jwl/10/3/jwl.10.issue-3.xml), co-edited with Arnab Dutta Roy. _Journal of World Literature_ Special Issue (10.3).  
+- _Constructing the Other: Narrative Empathy and the Ethics of Border-Crossing in World Literature_, co-edited with Arnab Dutta Roy. (An extended version of the JWL special issue. Forthcoming in a book format in early 2027, published by De Gruyter Brill.)   
+
+Links to my published fiction: 
 
 - [Measure of an Escape](https://thediagram.com/23_1/mishra.html), *DIAGRAM*  
 - [Between Bears and Bees](https://baltimorereview.org/index.php/winter_2021/contributor/shailen-mishra), *The Baltimore Review*
 - [Fait Accompli](https://thebookendsreview.com/2020/03/06/fait-accompli/), *The Bookends Review*
 - [Siren](https://www.theshinejournal.net/mishrashailen.htm), *The Shine Journal*
 
-A sample of my critical work can be viewed at the *Spoon River Poetry Review*'s [blog](https://www.srpr.org/blog/category/space-in-culture/).
+A sample of my other critical work can be viewed at the *Spoon River Poetry Review*'s [blog](https://www.srpr.org/blog/category/space-in-culture/).
 
 You can write to me using the form below:
 
@@ -30,3 +35,4 @@ You can write to me using the form below:
   <input type="hidden" name="_format" value="plain" />
   <button type="submit">Send</button>
 </form>
+
